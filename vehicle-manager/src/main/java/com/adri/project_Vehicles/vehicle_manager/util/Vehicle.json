@@ -1,0 +1,18 @@
+[
+  {
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2020,
+    "price": 15000.0,
+    "doors": 4,
+    "type": "Car"
+  },
+  {
+    "brand": "Yamaha",
+    "model": "MT-07",
+    "year": 2022,
+    "price": 9000.0,
+    "hasSidecar": false,
+    "type": "Motorcycle"
+  }
+]
