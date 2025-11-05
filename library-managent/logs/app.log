@@ -1,4 +1,0 @@
-2025-10-27 11:57:41.389 [INFO ] [main] LibraryManager - Book added Book [title=1984, autor=George Orwell, isbn=9780451524935, status=AVAILABLE]
-2025-10-27 11:57:41.392 [INFO ] [main] LibraryManager - Book added Book [title=The Hobbit, autor=J.R.R. Tolkien, isbn=9780547928227, status=RESERVED]
-2025-10-27 11:57:41.392 [INFO ] [main] LibraryManager - Book 1984 is update
-2025-10-27 11:57:41.393 [INFO ] [main] LibraryManager - The book 9780547928227 is removed
